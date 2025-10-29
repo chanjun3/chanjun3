@@ -63,5 +63,4 @@ Supabase / Firestoreを活用したデータ永続化、
 
 📍 **Location:** Japan / Remote  
 🏢 **Company:** FTTH株式会社  
-🌐 **Website:** [chanjun3.github.io](https://chanjun3.github.io)
 
