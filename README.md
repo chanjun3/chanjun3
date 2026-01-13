@@ -1,66 +1,93 @@
-# 👋 Hi, I'm Jun Ushimizu (@chanjun3)
+👋 Hi, I'm Jun Ushimizu (@chanjun3)
 
-## 🚀 Cloud-Native AI Engineer | Multi-Agent System Architect  
-### at **FTTH株式会社**
+AI System Designer / DevOps-oriented Engineer
+at FTTH株式会社
 
-Building scalable **AI infrastructures** that combine  
-multi-agent orchestration, machine learning, and cloud-native automation.
+I work on designing, evaluating, and verifying AI-enabled systems
+for B2B environments, especially where requirements are unclear
+and operational stability matters.
 
----
+Rather than focusing on tools or trends,
+I focus on whether a system will actually work in real operations.
 
-### 🧩 Core Expertise
-- ☁️ **Cloud Infrastructure:** Terraform / Kubernetes / ArgoCD / GitHub Actions  
-- ⚙️ **MLOps & Automation:** GCP (GKE, Cloud Run) / Supabase / Firestore  
-- 🧠 **Machine Learning:** PyTorch / LangChain / XGBoost  
-- 🤖 **AI Agents:** Planner / Analyzer / NotionUpdater / Reporter  
+## 🧭 How I approach B2B AI system design
+In B2B contexts, AI adoption usually arises from recurring business needs,
+not from technology curiosity.
+I organize my work around understanding these needs early
+and designing system structures that prevent failure before implementation.
 
----
+Typical B2B needs include:
 
-### 🧠 Key Projects
-- 🚀 Developing multi-agent orchestration framework for AI automation  
-- ☁️ Designing cloud-native infrastructure with Terraform & ArgoCD  
-- 🧩 Experimenting with GPU-enabled MLOps pipelines on GKE
+- **Risk reduction and governance**
+  - Turning vague goals into requirements, evaluation criteria, logs, and operational controls
 
----
+- **Knowledge retrieval and decision support**
+  - Designing RAG/search systems where data structure, freshness, and observability determine value
 
-### 🌐 Links
-- [💼 LinkedIn](https://www.linkedin.com/in/junichi-ushimizu-827762276)  
+- **Delivery under uncertainty**
+  - Preventing scope creep by defining guardrails and role boundaries early
 
----
+- **Operational efficiency**
+  - AI-assisted workflow automation with measurable outcomes
 
-> 🧭 “Designing systems that think, evolve, and collaborate.”
+- **Data-to-value feasibility**
+  - Verifying data quality, labels, and evaluation signals before committing to build
 
----
+- **AI integration into existing systems**
+  - Adding AI capabilities without breaking existing SaaS or enterprise systems
 
-## 🇯🇵 日本語プロフィール
+- **Execution in large organizations**
+  - Environments where decision logs, documentation, and coordination are critical
 
-### 🌟 クラウドネイティブAIエンジニア | マルチAIエージェントアーキテクト  
-**FTTH株式会社 所属**
+This perspective allows me to focus on roles where
+early architectural decisions create the most value.
 
-AIエージェントシステム、クラウドネイティブ環境、機械学習モデルを統合し、  
-**「自律的に考え、進化し、協調するシステム」**を設計・開発しています。  
+## 🧩 What I actually use in production
+Technologies I have hands-on experience using directly:
+- **Node.js**
+  - Backend logic and automation
+  - CI/CD-related scripts and tooling
+- **CI/CD design**
+  - Failure-aware workflows
+  - Validation steps and quality gates
+- **Logging and operational design**
+  - Structured logs
+  - Error detection and notification paths
+- **System design under unstable requirements**
+  - Designing structures before coding to reduce rework and risk
 
-Terraform / Kubernetes / GitHub Actions によるIaC構成から、  
-Supabase / Firestoreを活用したデータ永続化、  
-さらにGPU対応のKubernetes環境での機械学習モデル運用まで、  
-再現性と拡張性を両立した開発を推進しています。
+## 🧠 What I design, evaluate, or verify based on requirements
+Areas where I design architectures, evaluate trade-offs, and verify feasibility,
+even if I do not implement every component myself:
+- **Managed cloud services (AWS / GCP)**
+- **Infrastructure and reproducibility concepts**
+- **Container-based architectures**
+- **AI / LLM application architectures**
+- **Evaluation, monitoring, and operational design for AI features**
+I choose between managed services and custom implementations
+based on timeline, stability, and operational constraints — not ideology.
 
----
+## 🧩 Typical contributions
+- **Deep-diving vague requirement documents and JDs**
+- **Designing system architectures before implementation begins**
+- **Evaluating feasibility, cost, and operational risks**
+- **Verifying that proposed designs are realistic and maintainable**
+- **Supporting both short-term PoCs and long-term production systems**
 
-### 🔧 主なスキル領域
-- クラウド環境設計（GCP / AWS / ArgoCD）
-- 機械学習パイプライン構築（PyTorch / TensorFlow）
-- 自動化とCI/CD（GitHub Actions / Terraform）
-- エージェント連携アーキテクチャ設計（Planner / Reporter / Debugger）
+## 💡 Strengths
+- **Translating ambiguous business needs into concrete system designs**
+- **Preventing project failure before development starts**
+- **Designing for long-term operation, not just initial delivery**
+- **Balancing speed, stability, and maintainability**
 
----
+## 🧭 Design philosophy
+Not “AI that looks advanced”,
+but AI systems that are designed, evaluated, and verified to work in reality.
 
-### 💡 開発哲学
-> 「コードを書くAI」ではなく、  
-> 「思考し、成長し、協働するAIシステム」を作る。
+## 🌐 Portfolio
 
----
+This GitHub serves as my portfolio of system design and technical reasoning,
+focused on why and how systems are built — not on code volume alone.
 
-📍 **Location:** Japan / Remote  
-🏢 **Company:** FTTH株式会社  
-
+📍 Japan / Remote
+🏢 FTTH株式会社
